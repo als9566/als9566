@@ -3,11 +3,24 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=100&section=header)
 
 </div>   
-  
+
 <div align=center>
 👋 Hello My name is MinSung
-
 </div>  
+ 
+<br>
+
+<div align=center>
+  
+  
+||||
+|:---:|:------|:----:|
+|**🎓<br> Education**|Dongyang Mirae University|2016.3 ~ <br>2021.2|
+|**🏢<br> Employment**|SEWONATOS|2020.9 ~|
+  
+  
+</div>
+
   
 <div align=center>
   

@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fals9566&count_bg=%239FD4FF&title_bg=%23869ED1&icon=&icon_color=%23DFCECE&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
 
-가운데
-Tech Stack
 
+<center>Tech Stack</center>
 
 <img src="https://img.shields.io/badge/Delphi-ee1f35?style=flat-square&logo=Delphi&logoColor=white"/>
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/>

@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/Arduino-00979d?style=flat-square&logo=Arduino&logoColor=white"/>  <img src="https://img.shields.io/badge/C-a8b9cc?style=flat-square&logo=C&logoColor=white"/>  <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=HTML&logoColor=white"/>  <img src="https://img.shields.io/badge/JavaScript-e7df1e?style=flat-square&logo=JavaScript&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Eclipse IDE-2c2255?style=flat-square&logo=Eclipse&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=Git&logoColor=white"/>
   
 </div>  
